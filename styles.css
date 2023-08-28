@@ -1,0 +1,33 @@
+* {
+    background-color: rgb(29, 156, 230);
+    font-family: Arial;
+    text-align: center;
+
+}
+
+p, input {
+    font-size: 1.4em;
+}
+
+input {
+    background-color: white;
+}
+
+form {
+    margin: 50px;
+}
+
+#output, input:first-of-type + input {
+    background-color: orange;
+}
+
+input:first-of-type + input {
+    padding: 3px;
+}
+
+#output {
+    font-size: 2em;
+    width: max-content;
+    margin: 0 auto;
+    padding: 3px;
+}
