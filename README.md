@@ -1,5 +1,7 @@
 # Politer Web Application
 
+You can view the live site at: [Politer](http://www.simonmchung.com/Politer)
+
 Politer is a web application that allows users to make their statements or messages more polite. It employs the OpenAI GPT-3.5 Turbo model to enhance and refine text input for a more courteous and considerate output.
 
 This HTML structure defines the basic layout of the web page, including the form where users can input text and a div to display the more polite output.
