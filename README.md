@@ -14,7 +14,10 @@ The JavaScript code in the script.js fuke sets up an event handler for the form 
 
 To use the Politer web application, follow these steps:
 
-Open the index.html file in a web browser.
 Enter a less polite statement or text into the input box.
 Click the "Make More Polite" button.
 The web application will send your input to the OpenAI GPT-3.5 Turbo model and display a more polite version of the input in the output div.
+
+## For Devs
+
+If you want to use the application yourself, you will need to get your own API key from OpenAI.
